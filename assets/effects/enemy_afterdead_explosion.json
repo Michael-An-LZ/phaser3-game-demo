@@ -1,0 +1,103 @@
+{
+	"textures": [
+		{
+			"image": "enemy_afterdead_explosion",
+			"format": "RGBA8888",
+			"size": {
+				"w": 13,
+				"h": 50
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "enemy_afterdead_explosion_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 13,
+						"h": 13
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 13,
+						"h": 13
+					}
+				},
+				{
+					"filename": "enemy_afterdead_explosion_anim_f2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 13,
+						"h": 13
+					},
+					"frame": {
+						"x": 0,
+						"y": 13,
+						"w": 13,
+						"h": 13
+					}
+				},
+				{
+					"filename": "enemy_afterdead_explosion_anim_f3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 13,
+						"h": 13
+					},
+					"frame": {
+						"x": 0,
+						"y": 26,
+						"w": 13,
+						"h": 13
+					}
+				},
+				{
+					"filename": "enemy_afterdead_explosion_anim_f0.png",
+					"rotated": true,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 3,
+						"w": 11,
+						"h": 10
+					},
+					"frame": {
+						"x": 0,
+						"y": 39,
+						"w": 11,
+						"h": 10
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

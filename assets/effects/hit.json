@@ -1,0 +1,82 @@
+{
+	"textures": [
+		{
+			"image": "hit",
+			"format": "RGBA8888",
+			"size": {
+				"w": 8,
+				"h": 17
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "hit_effect_anim_f2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "hit_effect_anim_f1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 6,
+						"h": 6
+					},
+					"frame": {
+						"x": 0,
+						"y": 8,
+						"w": 6,
+						"h": 6
+					}
+				},
+				{
+					"filename": "hit_effect_anim_f0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 0,
+						"y": 14,
+						"w": 3,
+						"h": 3
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}
